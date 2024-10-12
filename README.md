@@ -1,2 +1,4 @@
 # Fracture Detection 
 This project focuses on developing a deep learning model for fracture detection in X-ray images using ResNet50. The current model classifies images as "Fractured" or "Non-fractured." However, the model's performance is below expectations, indicating the need for further optimization, including better data augmentation and hyperparameter tuning. Future work involves enhancing the model for multi-class fracture classification, enabling it to detect specific types of fractures. Additionally, incorporating a localization mechanism to draw bounding boxes around the detected fractures will improve the model's utility in medical diagnostics, providing precise visual feedback for healthcare professionals.
+
+![Screenshot from 2024-10-12 11-47-41](https://github.com/user-attachments/assets/bbc2367e-b082-4d97-8ba3-1ae31cbb6b9c)
